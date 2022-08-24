@@ -156,6 +156,65 @@ h2 {
     background-color: #FDF6D5;
 }
 
+.extra-section {
+    padding: 80px 80px;
+    margin: 0 90px;
+}
+
+.extra-part {
+    background-color: #2272AF;
+    color: #fff;
+    padding: 30px;
+    height: 300px;
+}
+
+.extra-part h3 {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.extra-part p {
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.extra-img img {
+    height: 360px;
+
+}
+
+.donate-update {
+    padding: 50px 180px;
+    margin: 0px 30px;
+}
+
+.update-form {
+    background-color: #FDF6D5;
+    width: 500px;
+    padding: 80px;
+    margin: 60px 120px;
+}
+
+.sub-form input[type=text] {
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    width: 300px;
+    height: 50px;
+    padding-left: 20px;
+    background: #D9D9D9;
+}
+
+.sub-form button {
+    height: 50px;
+    width: 120px;
+    background: #FE5250;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
 .text-center {
     text-align: center;
 }
